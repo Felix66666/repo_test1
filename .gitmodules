@@ -1,0 +1,3 @@
+[submodule "de/ab"]
+	path = de/ab
+	url = git@github.com:Felix66666/repo_test2.git
